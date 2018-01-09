@@ -1,0 +1,5 @@
+{
+    "ip": "0.0.0.0",
+    "port": 2333,
+    "rules_path": "../src/rules.json"
+}
