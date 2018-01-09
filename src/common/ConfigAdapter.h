@@ -1,5 +1,3 @@
-
-
 #ifndef SRC_CONFIGADAPTER_H
 #define SRC_CONFIGADAPTER_H
 

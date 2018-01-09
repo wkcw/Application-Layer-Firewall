@@ -1,5 +1,3 @@
-
-
 #ifndef SRC_TYPE_DEF_H
 #define SRC_TYPE_DEF_H
 
